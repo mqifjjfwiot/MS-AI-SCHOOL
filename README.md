@@ -8,3 +8,5 @@ github repository 생성 -> 프롬프트로 documents/github 폴더에 클론 ->
 git -add * or "파일명" #변동사항 반영
 git commit -m "메시지" #반영한거 커밋
 git push #최종푸시
+
+이상입니다
